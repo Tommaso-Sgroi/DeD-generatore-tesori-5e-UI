@@ -1,4 +1,4 @@
-# DeD-treasure-generator-UI
+# DeD-generatore-tesori-5e-UI
 <Strong><b>Semplice interfaccia grafica per generare cumuli di tesori per d&d 5e italiano.</b></Strong>
 <p>
   Permette di avere flessibilità nella generazione e nella modifica dei tesori:
